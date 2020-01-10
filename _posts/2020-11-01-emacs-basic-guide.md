@@ -2,9 +2,10 @@
 layout: post
 title: GNU Emacs Text Editor Basic Guide 
 date:   2020-09-01 16:04:00 +0300
-image:  emacs.png
+categories: default
 tags:  Emacs Beginner Guide
 ---
+
 What is Emacs (GNU Emacs)?
 
 စိတ်ကြိုက်ပြင်ချင်တာလား၊ extension တွေထပ်တိုးချင်တာလား၊ Free and Libre ဖြစ်နေတဲ့  " GNU Emacs" က သင့်coding env ကို ပိုမို တွင်ကျယ် စမတ်ကျအောင်စွမ်းဆောင်ပေးနိုင်မယ့် Text Editor တစ်ခုဖြစ်ပါတယ်။
